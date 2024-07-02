@@ -1,0 +1,16 @@
+[package]
+name = "AlienForward"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+grammers-client = "0.6.0"
+grammers-session = "0.5.2"
+grammers-tl-types = "0.6.0"
+tokio = { version = "1.37.0", features = ["full"] }
+serde = { version = "1.0.202", features = ["derive"] }
+reqwest = {version = "0.12.4", features = ["json"] }
+regex = "1.10.4"
+futures = "0.3.30"
+toml = "0.8.13"
+teloxide = "0.12.2"
