@@ -1,7 +1,0 @@
-[prod]
-api_id = "22758215"
-api_hash = "db4c32375794af9150dbc54c7dbe879e"
-phone_number = "+13433222116"
-dc = "149.154.175.50:443"
-session_path = "session.json"
-boto_tokeno="7126024009:AAFVLtsQ_vC9OMvl7iLTEsJjJeMBq1XDyHY"
